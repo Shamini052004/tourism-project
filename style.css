@@ -1,0 +1,11 @@
+.bg{
+    background-image: url("https://ik.imagekit.io/sha13/t-p1?updatedAt=1728131260508");
+    width:350px;
+    height:600px;
+}
+.bg2{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-vertical-shot-taj-mahal-building-agra-india-cloudy-sky_181624-16913.jpg");
+    height:600px;
+    width:350px;
+    background-size: content;
+}
